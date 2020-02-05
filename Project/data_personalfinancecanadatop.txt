@@ -1,0 +1,103 @@
+Oh man, this sub. What's with the cascade of downvotes? This is one of the single most-asked questions (and least-understood concepts) on this sub. 
+Alright, /u/lifeinsurancecanada - I'm going to be upfront. This is something I am EXTREMELY weak on understanding. So maybe this will be a little bit of fun for both of us. You get the chance to deal with someone that is probably as "clueless" as many consumers are, and I get to ask the questions that are probably pretty damn dumb just because I'm willing to admit I am pretty damn dumb about this kind of stuff.
+
+The only catch being that I'm a kinda skeptical person, and I have some financial experience.
+
+>Reserves:
+
+I mean, functionally, to me this very much sounds like a managed investment account - a very long term and very conservative one. I know you say otherwise (it's a reserve, not an investment), but how is it functionally any different except for being funds invested for a single purpose. 
+
+Effectively, one is funding their own death benefit and the reason for the reduced premiums is just reduced insurance. Could someone later on in their life simply take a lesser policy (since they might have their own investments and therefore not feel they need the coverage as much), and say fuck it to the insurance policy?
+
+The main benefit of whole life would be that act of funding a reserve account and reducing insurance coverage would be managed for you, for life, right? The main drawback would be losing control over funds put aside for yourself and I'm going to guess some pretty abysmal long-term returns on that reserve.
+
+>Cash Surrender Value
+
+Overall this seems like a bad thing, right? It seems like the person has already paid for insurance, at high premiums while young, and then their "investment"/"reserve" is also then taken some part into profit? How much is usually taken? Is that a tough question to answer? 
+
+Seems like if you are in this policy the CSV results in something like when one has an investment account and it has a deferred sales charge. Exit early and you'll have to pay for the services provided without going to term. How am I wrong about this? How is it different?
+
+>When you die, the lifeco pays the death benefit as (insurance + the reserve accumulated). Ideally the insurance portion is 0 and the reserve= death benefit. Again, this is conceptual and over an entire block not as an individual.
+
+The basic concept here - if I'm following along is that whole life insurances means that you no longer NEED insurance anymore when you're older, right? Because you have been funding it all along on your own. Just checking in that I'm on the right page. 
+At one point I thought it was also used to protect large assets.
+
+- As you retire, instead of taking out the money, get a secured line of credit against the balance. Use that instead.
+
+- Upon death, pay off the loan, but keep the remainder in the fund for tax free transfer to a beneficiary.
+
+
+Is this true? Perhaps you can discredit or expand on this?
+A very informative post - all of the details seem accurate and more in depth than I could explain. 
+My nitpick is he post seems a little too positive versus neutral. My humble opinion on whole and universal life is that it's a bad product for the large majority of people, and is pushed by insurance brokers  because of the high margins.   
+
+The financial product is a mashup of term life and investing. Many times the numbers are opaque - how much of payments goes to insurance versus reserve?  What is the growth of capital put into reserve?  When the information is available, there are lots of fees and the investing is very conservative for a financial instrument with a multi decade span. 
+Can you elaborate on the changes that are coming through from the CRA regarding whole/universal life? My insurance guy is trying to push me into a corporately owned policy now in order to take advantage before the changes occur.
+Question - why should I pay the 200$ a month till I'm old instead of putting away 200 dollars a month into a gic or something of sorts. 
+Sweet. 
+But all that still is a pile of statements that are disupted elsewhere (and here) by supposed experts.   I totally ignore "Enhanced Whole Life"  (PAR policies I presume) in the following because I am still trying to get the facts straight on the basics.   
+
+**1)** Are all policies restricted to level-pay for whole lifetime, as you say?  Certainly others claim otherwise and you have not been able to justify your claim.  [MM quote](https://www.reddit.com/r/PersonalFinanceCanada/comments/507pq6/anyone_know_the_mechanics_of_whole_life_insurance/d7333qi) and [/u/Alsadius point 2a)](https://www.reddit.com/r/PersonalFinanceCanada/comments/507pq6/anyone_know_the_mechanics_of_whole_life_insurance/d71zicy)
+
+I have also been in contact with every OP here asking them to give me factual confirmation of what exactly is in the contracts/sales claims.  A recent one replied that a) the 20yr ONLY flat payment schedule was guaranteed to be sufficient and b) it was not a PAR policy.  
+
+**2)** The image link you provide and your explanation -  how high early premiums set aside extra money to cover the higher mortality costs of later years - is probably understood and accepted by most people.  But that very understanding then gets violated when you start talking about the CSV.
+
+Using the logic of your image and explanation, the CSV should grow in the early years with the initial prepayment to fund future premiums.  This is the accumulating difference between your red/black term premium line and the orange permanent line.
+
+And later in life when the cash for the larger mortality costs are needed, that pot of cash (CSV / reserve) gets drawn down.  From the corp's POV the reserves from pre-payments (ignore investment profits and cash from lapsed policies for simplicity) should close on $0 (plus the corp's profits)  by the time the cohort is all dead.
+
+But that all contradicts the claims that the policies can be thought of as just like TFSA.  The claim that the CSV grows and continues to grow with time, until it equals the Face Value at death. The claim that the CSV is always about equal to the Face Value discounted back for yet-unpaid premiums and time.  So if you want to let your policy lapse you 'get your money back'.  
+
+[/u/Alsadius point 1a)](https://www.reddit.com/r/PersonalFinanceCanada/comments/507pq6/anyone_know_the_mechanics_of_whole_life_insurance/d71zicy) .."It's a flat number that increases annually when dividends are paid, as well as some guaranteed increase according to a contractual schedule."  And yourself above "CSV - . Why is it a bad thing? You cancel your policy and they give you money back."
+
+It must state in the contract exactly what the CSV will be, or provide some calculation for it.  But no one seems to have read the contracts.  And so we get completely contradictory information.   Do all contracts state exact $$ values of the CSV for each age?  Or do they not?  Does the $$ increase and continue increasing?
+
+**3)** Since you do not attempt to distinguish between the CSV and what you call the corporation's reserve, I have been assuming they are essentially linked.  
+
+The only way life insurance makes theoretical sense to me is if NOBODY gets their money back when they want to walk away.  The whole point of the exercise is to share mortality risks between groups of people.  That means $$ flow from those who die late to those who die early, with the corp taking a profit.  Giving people their money back if they did NOT die completely destroys that model. 
+
+The only way to make sense of this is to presume what you are claiming is wrong.  Insurance will only make sense if, each year, the corp takes the yearly mortality cost from the premium paid, and only increases the CSV by the difference.  And so will REDUCES the CSV in later years when premiums no longer covers the full mortality cost.   The Face Value must be paid by the corp from the yearly mortality costs it has taken each year. 
+
+**4)** Yes this is all happening behind the scenes and not physically distinguished until the CSV is accessed, but it is necessary to understand how the CSV is calculated, and what size it will be, in order to understand the product. 
+
+No one has ever stated or implied that the CSV of Whole Life is a different animal from the CSV of Universal Life.  Their concepts must be the same.  The media makes clear that there are piles of UL owners who find they have $0 CSV in later years, and are forced to pay huge premiums to keep their policies alive.  So does that mean there will be no funds to pay the face value on death?  Of course not.  
+
+**5)** And of course none of this top post addresses the supposed 'reasons' for buying this policy.  All the reasons are bogus per my many arguments.  Yet none of my arguments has been countered except as personal smears and downvotes.  [(1](https://www.reddit.com/r/PersonalFinanceCanada/comments/53lahe/life_insurance_on_a_parents_head/d7ux7at), [(2](https://www.reddit.com/r/PersonalFinanceCanada/comments/54ilfv/universal_life_insurance/d82q1wq), [3)](https://www.reddit.com/r/PersonalFinanceCanada/comments/5392ae/to_keep_or_cash_out_an_universal_life_policy/d7ryubt), [4)](https://www.reddit.com/r/PersonalFinanceCanada/comments/52xc4q/life_insurance_help/d7p97oa), [5)](https://www.reddit.com/r/PersonalFinanceCanada/comments/517h6y/met_with_a_life_insurance_broker_and_she/d7atmfe), [6)](https://www.reddit.com/r/PersonalFinanceCanada/comments/4v3dqq/great_west_life_life_insurance_as_investment/d5w1t4v), etc etc. 
+LPT - if you are young and have no dependents, life insurance is unlikely to be good for you... don't get caught up on the payout and security sales pitch...
+>Cash Surrender
+
+You may also be charged a surrender fee when you do this. Especially if you do it early on in the policy.
+
+>Some policies are priced so that there's some extra padding in the premiums. At the end of each year, the companies decide if there's any extra left over from your premium payment, and return some to you
+
+This is actually very heavily regulated and I would say the company doesn't get to decide. But rather they perform a calculation that specifically looks at mortality (how much they paid in death claims) and investment experience (how well the money they invested did as compared to how well they expected it to do). Any profit must be passed on to policyholders.
+
+
+Couple of thoughts for anyone who's in a similiar situation (in addition to what /u/Palestrina mentioned).
+
+If you're the one requiring the insurance, I recommend that you own the policy on your former's spouse's life.  Ownership means you pay, and you have control.  if you don't want to pay, still do this but see if you can bump up any financial agreement to include this costs.  That way, you control the policy.
+
+If you're not going to do this, and leave it in the hands of your ex spouse, then you need to make the beneficiary irrevocable.  AND you need to require that they prove continued coverage every year.  I assure you I've seen multiple instances where life insurance was purchased just long enough to keep the lawyers happy, then cancelled immediately afterwards.  The other spouse then moves forward thinking they have insurance when they don't.
+
+And lastly, if you're the one that's insured, I'd also suggest that you get an agreement upfront that upon conclusion of your obligations that you can take over the policy and/or that they won't block a beneficiary change.  You may want that insurance in 20 years for someone else, particularly if you've become uninsurable.  Without that agreement, either the other party lets the insurance lapse (which you don't want if you're uninsurable) or they keep the coverage in place and that's a bit weird.
+That's an ...interesting scenario.
+Will read the links when I get home after work, but for now, I'm curious if they say what the New Wife thought that the Ex Wife was doing paying the insurance for years and years if the ex wasn't supposed to be the beneficiary of it? Unless it was just supposed to be a big joke "Hahaha look how we screwed you for years by getting you to pay for something that wouldn't help yourself out"?
+
+Suppose it just rererereaffirms the importance of getting all your Ts crossed and Is dotted and making sure everyone is on the same page, but I'm curious  to read those links later. Thanks Palestrina!
+I read the SCC decision yesterday. What a wild ride. It's a perfect example of what not to do with estate planning.  Don't cut corners when it comes to your or your spouse's estate because you don't want to incur the minimal cost of signing paperwork. Dead people can't sign documents. 
+I'm surprised this SCC decision was so controversial. Clearly, Ms. Moore made some bad decisions that resulted in her almost getting scammed. But for the appellate courts to actually consider *upholding the scam on a technicality* is kind of insane.
+I guess dead peasant life insurance now spreads to consumers now.
+You should post this to /r/law to see how the lawyers who frequent that sub analyze this (lots of American lawyers there).
+I'm curious how the ex-wife continued paying for it without knowing the beneficiary was changed. Assuming the payments are online, I imagine you have to go through an account you have access to to see the bill, and on that same account you could also see the terms of the life insurance policy. Unless it was setup with something like automatic billing and the money was just taken out of her account or she just never bothered to check the terms and see the beneficiary wasn't her for the whole 7 years?
+There are some seriously concerning implications with this decision, and there are memos flying all over the place in our family and estate groups. I agree with the dissent.
+Wow, Very surprising conclusion to that.
+Very interesting conclusion to that case... 
+Thanks for sharing, that is wild.
+I'm a bit confused as to why they would make this arrangement. What is the benefit for the man for whom the life insurance is covering?
+Are beneficiaries not notified when they are removed from a policy?
+
+If not - Should they be?
+As someone who's currently studying family law for a political science class.   Makes sense! 
+Lol
+Makes sense, the ex-wife was paying consideration, lending significant evidence to the existence of a deal.
